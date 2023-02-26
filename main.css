@@ -15,15 +15,18 @@ html,body,main{
    width: 100%;
    justify-content: center;
 }
-.heading{
-    text-align: center;
-    padding: 20px;
-    color: white;
-    font-size: 3.5rem;
-}
 
+section{
+    display: flex;
+    flex-direction: row;
+}
 #carouselExample{
     padding: 30px;
     width: 50%;
     height: auto;
+    min-width: 350px;
 }
+
+
+
+
