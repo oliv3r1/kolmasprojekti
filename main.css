@@ -7,7 +7,8 @@
 html,
 body,
 main {
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   background-color: rgb(172, 168, 168);
 }
 
@@ -37,6 +38,7 @@ section {
   display: flex;
   flex-direction: row;
 }
+
 #carouselExample {
   padding: 30px;
   width: 50%;
@@ -56,9 +58,7 @@ section {
   }
 }
 
-
-
-#menu-container{
+#menu-container {
   width: 50%;
   height: auto;
   padding: 30px;
@@ -66,12 +66,9 @@ section {
   background-color: grey;
   border-radius: 20px;
   margin-top: 30px;
-color: white;
-
+  color: white;
+  line-height: 35px;
 }
-#menu{
-  width: 50%; 
-}
-h2 {
-  color: green;
+#menu {
+  width: 50%;
 }
