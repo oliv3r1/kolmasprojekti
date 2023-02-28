@@ -1,253 +1,194 @@
 {
-    "meta":{
-       "generated_timestamp":1677413138,
-       "ref_url":"https:\/\/www.sodexo.fi\/ravintolat\/metropolia-myllypuro",
-       "ref_title":"Metropolia Myllypuro"
-    },
-    "courses":{
-       "1":{
-          "title_fi":"Mausteinen linssipata, korianterisoijajogurttia ja paahdettuja peruna- ja bataattilohkoja",
-          "title_en":"Spicy lentil stew , soy yoghurt with coriander and roasted potato and sweet potato wedges",
-          "category":"FROM THE FIELD-VEGAN",
-          "dietcodes":"G, M",
-          "properties":"G, M",
-          "additionalDietInfo":{
-             "dietcodeImages":[
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/sodexo-leaf.svg",
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/vege.svg",
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/omena.svg"
-             ],
-             "allergens":"Rikkidioksidi ja sulfiitit, Soijapavut"
-          },
-          "price":"2,95 \u20ac \/ 5,90 \u20ac \/ 8,00 \u20ac",
-          "recipes":{
-             "0":{
-                "name":"KORIANTERISOIJAJOGURTTIKASTIKE.",
-                "ingredients":"soijavalmiste maustamaton 500g[vesi, kuoritut SOIJAPAVUT (7,9%), sokeri, trikalsiumsitraatti, stabilointiaine (pektiini), happamuudens\u00e4\u00e4t\u00f6aineet (natriumsitraatti, sitruunahappo), aromi, merisuola, hapettumisenestoaineet (tokoferoliuute, askorbyylipalmitaatti), hapate (S.thermophilus,L.bulgaricus), vitamiinit (B12, D2).] (82%), mehu sitruuna 1,0l[Sitruunat\u00e4ysmehu tiivisteest\u00e4, C-vitamiini.] (15%), korianteri 100g pnt[] (2%), sokeri ruoko kide 500g[Ruokosokeri] (1%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%), pippuri musta jauhettu 350g[] (0%)",
-                "nutrients":"Energia\/Energy: 225.78 kJ | Energia\/Energy: 53.32 kcal | Rasva\/Fat: 1.95 g | Hiilihydraatit\/Carbohydrate: 3.63 g | Proteiinit\/Protein: 3.43 g | Kuidut\/Fibre: 0.97 g | Suola\/Salt: 0.62 g"
-             },
-             "hideAll":{
-                "dietcodes":"G, M"
-             },
-             "1":{
-                "name":"PAAHDETUT BATAATTI JA PERUNALOHKOT.",
-                "ingredients":"peruna lohko kuorellinen rpa 2,5kg[perunaa (96%), auringonkukka\u00f6ljy\u00e4 (4%)] (65%), bataatti kuorittu[Bataatti] (33%), \u00f6ljy oliivi extra virgin 3l[oliivi\u00f6ljy] (2%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%)",
-                "nutrients":"Energia\/Energy: 567.10 kJ | Energia\/Energy: 134.61 kcal | Rasva\/Fat: 5.03 g | Hiilihydraatit\/Carbohydrate: 18.59 g | Proteiinit\/Protein: 2.20 g | Kuidut\/Fibre: 3.00 g | Suola\/Salt: 0.43 g"
-             },
-             "2":{
-                "name":"MAUSTEINEN LINSSIPATA.",
-                "ingredients":"Vesi (37%), sipuli kuutio rpa 2,5kg[Sipuli.] (13%), sipuli pikku rpa[pikku sipuli] (13%), linssi beluga 1kg[belugalinssi. Saattaa sis\u00e4lt\u00e4\u00e4 pieni\u00e4 m\u00e4\u00e4ri\u00e4 gluteenipitoisia viljoja. ] (8%), porkkana kuorittu[Porkkana.] (7%), palsternakka kuorittu[Palsternakka.] (7%), linssi punainen lmu 400g[linssi punainen ] (4%), \u00f6ljy rapsi menu 10l[] (3%), tomaatti sose 4,5kg[tomaatti. Kuiva-ainepitoisuus: 28#30 %] (3%), etikka viini sherry 0,5l[Sherry etikka, v\u00e4riaine: ammoniumsulfiittimenetelm\u00e4n sokerikul\u00f6\u00f6ri.antioksidantti: kaliumdiSULFIITTI.] (2%), mauste tahna alfez harissa 100g[Vesi, tomaattipyre (15%), sokeri, paprika,tomaattijauhe (4,5%), kasvi\u00f6ljy (rapsi),valkoviinietikka, maltodekstriini, suola,valkosipuli (1%), cayennepippuri, murskattu chili (1%),anis, korianteri, juustokumina, sitruunamehutiiviste.Saattaa sis\u00e4lt\u00e4\u00e4 MAAP\u00c4HKIN\u00c4\u00c4,P\u00c4HKIN\u00c4\u00c4 ja SEESAMINSIEMENI\u00c4.] (2%), valkosipulikuutio rpa 250g[Valkosipuli.] (1%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (1%), kurkuma jauhettu 430g[] (0%), laakerinlehti 30g[Laakerinlehti] (0%)",
-                "nutrients":"Energia\/Energy: 386.40 kJ | Energia\/Energy: 92.60 kcal | Rasva\/Fat: 3.86 g | Hiilihydraatit\/Carbohydrate: 9.46 g | Proteiinit\/Protein: 3.88 g | Kuidut\/Fibre: 2.19 g | Suola\/Salt: 0.56 g"
-             }
-          }
-       },
-       "2":{
-          "title_fi":"Lihapullat tulisessa tomaattikastikkeessa ja pastaa",
-          "title_en":"Meat balls in spicy tomato sauce with pasta",
-          "category":"FROM OUR FAVORITES",
-          "dietcodes":"M",
-          "properties":"M",
-          "additionalDietInfo":{
-             "dietcodeImages":[
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/omena.svg",
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/liha-fi-new.svg"
-             ],
-             "allergens":"Gluteenia sis\u00e4lt\u00e4v\u00e4t viljat ja -tuotteet, Vehn\u00e4"
-          },
-          "price":"2,95 \u20ac \/ 5,90 \u20ac \/ 8,00 \u20ac",
-          "recipes":{
-             "0":{
-                "name":"Broilerpy\u00f6ryk\u00e4t Arrabiata",
-                "ingredients":"Broilerpy\u00f6rykk\u00e4 17g (broilerinliha Suomi,peruna,vesi,SOIJAproteiini,KANANMUNA,perunahiutale,perunajauho,rypsi\u00f6ljy,sipuli,mausteet mm paprika,valkopippuri,valkosipuli,cayenne,korianteri,suola,glukoosi), Vesi (28%), kastike pizza yrtit 5kg[Tomaatti 99,1 %, suola, basilika 0,075 %, oregano 0,05 %, sipuli 0,05 %, luontainen aromi] (24%), sipuli kuutio rpa 2,5kg[Sipuli.] (6%), \u00f6ljy rapsi menu 10l[] (1%), valkosipulikuutio rpa 250g[Valkosipuli.] (1%), basilika kuivattu 145g[Basilika.] (0%), mauste chili rouhe punainen 280g[Punainen chilirouhe.] (0%), timjami kuivattu 185g[] (0%)",
-                "nutrients":"Energia\/Energy: 474.97 kJ | Energia\/Energy: 113.66 kcal | Rasva\/Fat: 6.92 g | Hiilihydraatit\/Carbohydrate: 7.20 g | Proteiinit\/Protein: 4.86 g | Kuidut\/Fibre: 0.94 g | Suola\/Salt: 0.62 g"
-             },
-             "hideAll":{
-                "dietcodes":"M"
-             },
-             "1":{
-                "name":"KEITETTY PENNEPASTA.",
-                "ingredients":"Vesi (79%), pasta penne[100% durumVEHN\u00c4 semolina] (21%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%), \u00f6ljy rapsi menu 10l[] (0%)",
-                "nutrients":"Energia\/Energy: 503.05 kJ | Energia\/Energy: 118.68 kcal | Rasva\/Fat: 0.71 g | Hiilihydraatit\/Carbohydrate: 23.25 g | Proteiinit\/Protein: 4.32 g | Kuidut\/Fibre: 1.00 g | Suola\/Salt: 0.28 g"
-             }
-          }
-       },
-       "3":{
-          "title_fi":"Broileria makeassa soijakastikkeessa ja t\u00e4ysjyv\u00e4ohraa",
-          "title_en":"Chicken in sweet soy sauce and whole grain barley",
-          "category":"FROM OUR FAVORITES.",
-          "dietcodes":"M",
-          "properties":"M",
-          "additionalDietInfo":{
-             "dietcodeImages":[
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/omena.svg",
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/liha-fi-new.svg"
-             ],
-             "allergens":"Gluteenia sis\u00e4lt\u00e4v\u00e4t viljat ja -tuotteet, Ohra, Seesaminsiemenet, Soijapavut"
-          },
-          "price":"2,95 \u20ac \/ 5,90 \u20ac \/ 8,00 \u20ac",
-          "recipes":{
-             "0":{
-                "name":"MAKEA SOIJAKASTIKE BROILERILLE.",
-                "ingredients":"Vesi (32%), porkkana kuorittu[Porkkana.] (26%), kaali parsa[Parsakaali.] (21%), kastike soija 2l[Vesi, soijaproteiinihydrolysaatti, suola (15%)] (11%), sokeri kide 25kg[] (4%), kastike chili makea 2,5l[Sokeri, punainen chili 20 %, vesi, etikka, valkosipuli, suola, muunnettu tapioka\u00e4rkkelys, sakeuttamisaine (E415), happamuudens\u00e4\u00e4t\u00f6aine (E330). Suolapitoisuus 3,7%.] (3%), \u00f6ljy rapsi menu 10l[] (1%), maissi t\u00e4rkkelys promix[Maissit\u00e4rkkelys] (1%), valkosipulikuutio rpa 250g[Valkosipuli.] (1%), seesami\u00f6ljy paahdettu 125ml[Seesami\u00f6ljy 100%] (1%), korianteri 100g pnt[] (0%)",
-                "nutrients":"Energia\/Energy: 247.98 kJ | Energia\/Energy: 59.18 kcal | Rasva\/Fat: 1.75 g | Hiilihydraatit\/Carbohydrate: 8.81 g | Proteiinit\/Protein: 1.35 g | Kuidut\/Fibre: 1.17 g | Suola\/Salt: 1.77 g"
-             },
-             "hideAll":{
-                "dietcodes":"G, M"
-             },
-             "1":{
-                "name":"KEITETTY T\u00c4YSJYV\u00c4OHRA.",
-                "ingredients":"Vesi (63%), ohra t\u00e4ys kokonainen[T\u00e4ysjyv\u00e4OHRA.] (36%), \u00f6ljy rapsi menu 10l[] (1%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%)",
-                "nutrients":"Energia\/Energy: 0.00 kJ | Energia\/Energy: 0.00 kcal | Rasva\/Fat: 0.00 g | Hiilihydraatit\/Carbohydrate: 0.00 g | Proteiinit\/Protein: 0.00 g | Kuidut\/Fibre: 0.00 g | Suola\/Salt: 0.00 g"
-             },
-             "2":{
-                "name":"BROILERIN PAISTILEIKE.",
-                "ingredients":"broiler paistileike mied.suolattu rtu[ Ainekset: suomalainen broilerin reisiliha (82 %), vesi, suola (0,5 %), stabilointiaineet (E450, E451), happamuudens\u00e4\u00e4t\u00f6aine (maitohappo), sakeuttamisaine (ksantaanikumi). LAKTOOSITON. GLUTEENITON. MAIDOTON] (100%)",
-                "nutrients":"Energia\/Energy: 478.72 kJ | Energia\/Energy: 117.02 kcal | Rasva\/Fat: 4.79 g | Hiilihydraatit\/Carbohydrate: 0.00 g | Proteiinit\/Protein: 19.15 g | Kuidut\/Fibre: 0.00 g | Suola\/Salt: 0.88 g"
-             }
-          }
-       },
-       "4":{
-          "title_fi":"Inkiv\u00e4\u00e4ri-porkkanasosekeittoa, lis\u00e4kesalaatti kahdella napaksella",
-          "title_en":"Creamy carrot soup with ginger, side salad with two napas",
-          "category":"FROM THE SOUP BOWL",
-          "dietcodes":"G, L",
-          "properties":"G, L",
-          "additionalDietInfo":{
-             "dietcodeImages":[
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/omena.svg"
-             ],
-             "allergens":"Maito"
-          },
-          "price":"2,95 \u20ac \/ 5,90 \u20ac \/ 8,00 \u20ac",
-          "recipes":{
-             "0":{
-                "name":"INKIV\u00c4\u00c4RI-PORKKANASOSEKEITTO.",
-                "ingredients":"Vesi (51%), porkkana kuorittu[Porkkana.] (24%), peruna kuorittu annos rtu[Peruna.] (10%), sipuli kuutio rpa 2,5kg[Sipuli.] (6%), kasvirasvasekoite 15% 1l ltn[Rasvaton MAITO(Suomi), vesi, rapsi\u00f6ljy, muunnettu maissi- ja tapiokat\u00e4rkkelys, emulgointiaine(E472e), aromi, v\u00e4ri(betakaroteeni)] (5%), mehu appelsiini 1l[Tiivisteest\u00e4 valmistettu appelsiinit\u00e4ysmehu] (3%), sokeri kide 25kg[] (1%), liemijauhe kasvis gtm v\u00e4h\u00e4suol. 5kg[Suola, maltodekstriini, kasvisjauhe 25% (palsternakka 6,3%, kukkakaali 3,9%, sipuli 3,9%, purjosipuli 3,9%, valkosipuli 2,6%, valkokaali 2,0%, porkkanamehu 2,0%, lipstikanjuuri 0,7%, juuripersilja 0,1%), luontainenaromi, ekstra neitsytoliivi\u00f6ljy, aromit, sienimehutiiviste. Valmiin liemensuolapitoisuus on 0,3 %.] (1%), tahna inkiv\u00e4\u00e4ri 1kg[Inkiv\u00e4\u00e4ri 81 %, etikka, soijapapu\u00f6ljy, sokeri, suola, happamuudens\u00e4\u00e4t\u00f6aineet (sitruunahappo, askorbiinihappo).] (0%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%), curry[Kaneli, kardemumma, neilikka, korianteri, kumina, fenkoli, inkiv\u00e4\u00e4ri, sarviapila, kurkuma, pippuri, yrtit, sipuli, valkosipuli, sokeri] (0%), p\u00e4hkin\u00e4 muskotti jauhe 440g[Muskottip\u00e4hkin\u00e4] (0%)",
-                "nutrients":"Energia\/Energy: 128.45 kJ | Energia\/Energy: 30.77 kcal | Rasva\/Fat: 0.84 g | Hiilihydraatit\/Carbohydrate: 4.67 g | Proteiinit\/Protein: 0.53 g | Kuidut\/Fibre: 0.86 g | Suola\/Salt: 0.15 g"
-             },
-             "hideAll":{
-                "dietcodes":"G, L"
-             }
-          }
-       },
-       "5":{
-          "title_fi":"Lounaspatonki tomaatti-mozzarellat\u00e4ytteell\u00e4",
-          "title_en":"Baguette with tomato and mozzarella",
-          "category":"From our bakery",
-          "additionalDietInfo":{
-             "dietcodeImages":[
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/sodexo-leaf.svg"
-             ],
-             "allergens":"Cashewp\u00e4hkin\u00e4t, Maito, Vehn\u00e4"
-          },
-          "price":"2,95 \u20ac \/ 5,90 \u20ac \/ 8,00 \u20ac",
-          "recipes":[
-             {
-                "name":"LOUNASPATONKI tomaatti-mozzarella.",
-                "ingredients":"patonki rtu 2x300g[VEHN\u00c4jauho, vesi, hiiva, suola, mallasVEHN\u00c4jauho, VEHN\u00c4taikinajuuri, jauhonparanne (askorbiinihappo). Saattaa sis\u00e4lt\u00e4\u00e4 pieni\u00e4 m\u00e4\u00e4ri\u00e4 muita gluteenia sis\u00e4lt\u00e4vi\u00e4 viljoja (ruis, kaura, ohra) ja seesaminsiemeni\u00e4. ] (49%), tomaatti[Tomaatti.] (23%), juusto mozzarella viip ltn rpa 500g[Past\u00f6roitu lehm\u00e4nMAITO, suola (1,1%), hapate, juoksute, happamuudens\u00e4\u00e4t\u00f6aine (sitruunahappo). Rasvapitoisuus 21,5%. Tuotetiedot ja paino ohjeen mukaan valmistetulle tuotteelle.] (12%), juusto tuore maustamaton ltn 1,5kg[Past\u00f6roitu KERMA, rasvaton MAITOjauhe, sakeuttamisaineet (E440, E412), suola, s\u00e4il\u00f6nt\u00e4aine (E202 kaliumsorbaatti), hapate. Rasvapitoisuus 22 %] (10%), salaatti j\u00e4\u00e4[J\u00e4\u00e4salaatti.] (3%), herne verso tuore[] (2%), \u00f6ljy oliivi extra virgin 3l[oliivi\u00f6ljy] (1%), pesto alla genovese 950g[Basilika 33%, vesi, auringonkukka\u00f6ljy, juusto (MAITO), CASHEWP\u00c4HKIN\u00c4, suola, ryp\u00e4lesokeri, muunneltu maissit\u00e4rkkelys, happamuudens\u00e4\u00e4t\u00f6aine: maitohappo, valkosipuli, kasvikuitu, pinjansiemen, heraproteiini (MAITO), luontaiset aromit. Voimakassuolainen] (1%)",
-                "nutrients":"Energia\/Energy: 870.40 kJ | Energia\/Energy: 207.04 kcal | Rasva\/Fat: 7.22 g | Hiilihydraatit\/Carbohydrate: 28.60 g | Proteiinit\/Protein: 7.48 g | Kuidut\/Fibre: 1.41 g | Suola\/Salt: 0.74 g"
-             }
-          ]
-       },
-       "6":{
-          "title_fi":"L\u00e4mminsavulohisalaatti",
-          "title_en":"Hot smoked salmon salad",
-          "category":"From the garden",
-          "dietcodes":"G, M",
-          "properties":"G, M",
-          "additionalDietInfo":{
-             "dietcodeImages":[
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/omena.svg"
-             ],
-             "allergens":"Kala, Munat, Rikkidioksidi ja sulfiitit, Sinappi"
-          },
-          "price":"2,95 \u20ac \/ 5,90 \u20ac \/ 8,00 \u20ac",
-          "recipes":{
-             "0":{
-                "name":"L\u00c4MMINSAVULOHI SALAATTI.",
-                "ingredients":"salaatti amerikan leikattu a la carte[Amerikansalaatti] (29%), kananmuna kyps\u00e4 kuorittu[Keitetty ja kuorittu suomalainen KANANMUNA, vesi, suola, happamuudens\u00e4\u00e4t\u00f6aine (sitruunahappo, maitohappo), v\u00e4kiviinaetikka] (17%), kirjolohi savu filee tupla[Viljelty KIRJOLOHI (Oncorhynchus mykiss), suola. Alkuper\u00e4maa ilmoitettu p\u00e4iv\u00e4yksen yhteydess\u00e4 Fi=Suomi, Se=Ruotsi, No=Norja.] (17%), tomaatti kirsikka ras 250g[Kirsikkatomaatti] (13%), kurkku[Kurkku.] (11%), dippikastike hunaja sinappi 100x25g[Soija\u00f6ljy 33%, hunaja 24 %, vesi, etikka, SINAPINSIEMEN 3% (sis\u00e4lt\u00e4\u00e4 RIKKIDIOKSIDIA), KANANMUNAN keltuainen, suola, sokeri, sakeuttamisaine (ksantaanikumi), valkosipuli, hapettumisenestoaine (tokoferoliuute, kalsiumdinatrium- EDTA), mausteet, happo (sitruunahappo).] (7%), sipuli puna renkaina tuore[Punasipuli] (4%), etikka vinegrette vadelma 1l[Auringonkukka\u00f6ljy, punaviinietikka 20% (sis\u00e4lt\u00e4\u00e4 SULFIITTIA), vesi, hedelm\u00e4mehutiiviste 4.5% (mustaherukka, vadelma 1.0%),sokeri, hunaja, mausteet (inkiv\u00e4\u00e4ri, jalapeno, paprika), suola, sakeuttamisaineet (karrageeni, ksantaanikumi), luontainen vadelma-aromi.] (1%), sokeri kide 25kg[] (0%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%)",
-                "nutrients":"Energia\/Energy: 396.60 kJ | Energia\/Energy: 95.26 kcal | Rasva\/Fat: 6.20 g | Hiilihydraatit\/Carbohydrate: 2.81 g | Proteiinit\/Protein: 6.74 g | Kuidut\/Fibre: 0.67 g | Suola\/Salt: 0.53 g"
-             },
-             "hideAll":{
-                "dietcodes":"G, M"
-             }
-          }
-       },
-       "7":{
-          "title_fi":"Mangosmoothie",
-          "title_en":"Mango smoothie",
-          "category":"FROM THE SWEET",
-          "dietcodes":"G, L",
-          "properties":"G, L",
-          "additionalDietInfo":{
-             "allergens":"Maito"
-          },
-          "price":"1,05 \u20ac \/ 1,20 \u20ac \/ 1,40 \u20ac",
-          "recipes":{
-             "0":{
-                "name":"SMOOTHIE MANGO.",
-                "ingredients":"mangosose,kermaviili ltn, vaniljakastike vaahtoutuva ltn,maitojuoma kevyt ltn,sokeri,sitruunanmehu",
-                "nutrients":"Energia\/Energy: 453.48 kJ | Energia\/Energy: 108.49 kcal | Rasva\/Fat: 5.65 g | Hiilihydraatit\/Carbohydrate: 11.19 g | Proteiinit\/Protein: 2.89 g | Kuidut\/Fibre: 0.00 g | Suola\/Salt: 0.07 g"
-             },
-             "hideAll":{
-                "dietcodes":"G, L"
-             }
-          }
-       },
-       "8":{
-          "title_fi":"Juustohampurilainen ja ranskalaiset perunat",
-          "title_en":"Cheeseburger with fries",
-          "category":"From the kitchen",
-          "dietcodes":"VL",
-          "properties":"VL",
-          "additionalDietInfo":{
-             "dietcodeImages":[
-                "https:\/\/www.sodexo.fi\/sites\/default\/themes\/sodexo\/images\/liha-eu-new.svg"
-             ],
-             "allergens":"Gluteenia sis\u00e4lt\u00e4v\u00e4t viljat ja -tuotteet, Maito, Munat, Naudanliha, Seesaminsiemenet, Sinappi, Vehn\u00e4"
-          },
-          "price":"5,30 \u20ac \/ 6,95 \u20ac \/ 9,35 \u20ac",
-          "recipes":{
-             "0":{
-                "name":"gsu RANSKALAISET PERUNAT.",
-                "ingredients":"peruna ranskan julienne rpa 2,5kg[peruna(96,7%), palmu\u00f6ljy SG(3,3%)] (99%), \u00f6ljy syv\u00e4paisto 1l[rapsi\u00f6ljy (siemen: eu), hapettumisenestoaine (E304), vaahdonestoaine (E900) ] (0%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%)",
-                "nutrients":"Energia\/Energy: 560.56 kJ | Energia\/Energy: 133.51 kcal | Rasva\/Fat: 3.80 g | Hiilihydraatit\/Carbohydrate: 20.70 g | Proteiinit\/Protein: 2.60 g | Kuidut\/Fibre: 3.00 g | Suola\/Salt: 0.56 g"
-             },
-             "hideAll":{
-                "dietcodes":"VL"
-             },
-             "1":{
-                "name":"gsu CHEESE BURGER.",
-                "ingredients":"jauheliha pihvi 100-110g rpa[naudanliha (EU), jodioitu suola. Laktoositon. Gluteeniton. Runsasproteiininen.] (35%), s\u00e4mpyl\u00e4 hampurilais j\u00e4tti kpa 85g[VEHN\u00c4JAUHO (VEHN\u00c4: EU), vesi, sokeri, hiiva, rypsi\u00f6ljy, SEESAMINSIEMEN, jodioitu suola, emul-gointiaine (E472e), s\u00e4il\u00f6nt\u00e4aine (E282), jauhonparanne (E300).] (27%), majoneesi t\u00e4ys 5kg ltn[Rypsi\u00f6ljy 76%, KANANMUNA ja KANANMUNANKELTUAINEN 8,7 %, viinietikka, vesi, suola, sokeri, sakeuttamisaine (guarkumi, ksantaanikumi), sitruunamehutiiviste, aromi, hapettumisenestoaine (kalsiumdinatrium EDTA), paprikauute.] (10%), juusto cheddar 1kg viip[Past\u00f6roitu MAITO, suola, hapate, juoksute.] (6%), kurkku viipale amerikka 9,6\/5,1kg[Kurkku, vesi, sokeri, etikka, jodioitu suola, sipuli, aromit (mm. tilli, kurkuma), SINAPINSIEMEN, makeutusaine (sakariini).] (5%), tomaatti[Tomaatti.] (5%), salaatti j\u00e4\u00e4[J\u00e4\u00e4salaatti.] (5%), sipuli puna kuorittu[Punasipuli] (3%), sinappi dijon kokojyv\u00e4 1kg[vesi, v\u00e4kiviinaetikka, SINAPINSIEMEN, SINAPINSIEMENEN KUORI, suola ,happamuudens\u00e4\u00e4t\u00f6aine (E330), aromit, hapettumisenestoaine(kaliumdiSULFIITTI), kurkuma] (3%), pippuri musta rouhittu[Rouhittu mustapippuri] (0%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%)",
-                "nutrients":"Energia\/Energy: 1170.47 kJ | Energia\/Energy: 282.03 kcal | Rasva\/Fat: 19.08 g | Hiilihydraatit\/Carbohydrate: 14.71 g | Proteiinit\/Protein: 11.67 g | Kuidut\/Fibre: 1.34 g | Suola\/Salt: 1.44 g"
-             }
-          }
-       },
-       "9":{
-          "title_fi":"Kasvis TAI Halloumi hampurilainen ja ranskalaiset perunat",
-          "title_en":"Veggie OR Halloumi burger with fries",
-          "category":"FROM THE KITCHEN VEGGIE",
-          "dietcodes":"VL",
-          "properties":"VL",
-          "additionalDietInfo":{
-             "allergens":"Gluteenia sis\u00e4lt\u00e4v\u00e4t viljat ja -tuotteet, Maito, Munat, Seesaminsiemenet, Sinappi, Vehn\u00e4"
-          },
-          "price":"5,30 \u20ac \/ 6,95 \u20ac \/ 9,35 \u20ac",
-          "recipes":{
-             "0":{
-                "name":"gsu RANSKALAISET PERUNAT.",
-                "ingredients":"peruna ranskan julienne rpa 2,5kg[peruna(96,7%), palmu\u00f6ljy SG(3,3%)] (99%), \u00f6ljy syv\u00e4paisto 1l[rapsi\u00f6ljy (siemen: eu), hapettumisenestoaine (E304), vaahdonestoaine (E900) ] (0%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%)",
-                "nutrients":"Energia\/Energy: 560.56 kJ | Energia\/Energy: 133.51 kcal | Rasva\/Fat: 3.80 g | Hiilihydraatit\/Carbohydrate: 20.70 g | Proteiinit\/Protein: 2.60 g | Kuidut\/Fibre: 3.00 g | Suola\/Salt: 0.56 g"
-             },
-             "hideAll":{
-                "dietcodes":"VL"
-             },
-             "1":{
-                "name":"gsu VEGETARIAN BURGER.",
-                "ingredients":"s\u00e4mpyl\u00e4 hampurilais j\u00e4tti kpa 85g[VEHN\u00c4JAUHO (VEHN\u00c4: EU), vesi, sokeri, hiiva, rypsi\u00f6ljy, SEESAMINSIEMEN, jodioitu suola, emul-gointiaine (E472e), s\u00e4il\u00f6nt\u00e4aine (E282), jauhonparanne (E300).] (30%), kasvispihvi 80g kpa[Peruna, porkkana, vesi, purjosipuli, perunahiutale (peruna, emulgointiaine (E471), happamuudens\u00e4\u00e4t\u00f6aineet (E330, E331), stabilointiaine (E450), hapettumisenestoaineet (E300, E304)), laktoositon emmentaljuusto, palsternakka, laktoositon kerma (kerma,happamuudens\u00e4\u00e4t\u00f6aine (E331), stabilointiaine (E407)), kananmuna, riisi, oliivi\u00f6ljy, suola (1,1 %), rypsi\u00f6ljy, valkopippuri, curry (kurkuma, inkiv\u00e4\u00e4ri, tilli, korianteri, basilika, kumina, sarviapila, chili,valkosipuli), paprika, timjami, muskottip\u00e4hkin\u00e4, chilimauste (mm. chili, paprika, juustokumina, oregano).] (28%), majoneesi t\u00e4ys 5kg ltn[Rypsi\u00f6ljy 76%, KANANMUNA ja KANANMUNANKELTUAINEN 8,7 %, viinietikka, vesi, suola, sokeri, sakeuttamisaine (guarkumi, ksantaanikumi), sitruunamehutiiviste, aromi, hapettumisenestoaine (kalsiumdinatrium EDTA), paprikauute.] (12%), juusto cheddar 1kg viip[Past\u00f6roitu MAITO, suola, hapate, juoksute.] (7%), kurkku viipale amerikka 9,6\/5,1kg[Kurkku, vesi, sokeri, etikka, jodioitu suola, sipuli, aromit (mm. tilli, kurkuma), SINAPINSIEMEN, makeutusaine (sakariini).] (5%), tomaatti[Tomaatti.] (5%), salaatti j\u00e4\u00e4[J\u00e4\u00e4salaatti.] (5%), sipuli puna kuorittu[Punasipuli] (4%), sinappi dijon kokojyv\u00e4 1kg[vesi, v\u00e4kiviinaetikka, SINAPINSIEMEN, SINAPINSIEMENEN KUORI, suola ,happamuudens\u00e4\u00e4t\u00f6aine (E330), aromit, hapettumisenestoaine(kaliumdiSULFIITTI), kurkuma] (4%), pippuri musta rouhittu[Rouhittu mustapippuri] (0%), suola jodioitu 1kg[Suola (NaCl) v\u00e4h. 99,8 %, kaliumjodidi (Kl), paakkuuntumisenestoaine (E535). Jodi lis\u00e4tty kaliumjodidina. Yksi kilo ruokasuolaa sis\u00e4 lt\u00e4\u00e4 25 mg jodia] (0%)",
-                "nutrients":"Energia\/Energy: 990.02 kJ | Energia\/Energy: 239.26 kcal | Rasva\/Fat: 14.82 g | Hiilihydraatit\/Carbohydrate: 18.98 g | Proteiinit\/Protein: 6.05 g | Kuidut\/Fibre: 1.90 g | Suola\/Salt: 1.14 g"
-             }
-          }
-       }
-    }
- }
+   "RestaurantName":"Metropolia",
+   "RestaurantUrl":"https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/espoo/metropolia/",
+   "PriceHeader":null,
+   "Footer":"Huomioithan, ett\u00E4 ravintolassa k\u00E4ytetyt raaka-aineet saattavat vaihtua suunnitellusta ja siten verkkosivuilla julkaistut dieettimerkinn\u00E4t ja tuoteselosteet voivat poiketa todellisesta tarjonnasta. Kehotamme allergisia henkil\u00F6it\u00E4 aina tarkastamaan tarjotun ruuan soveltuvuus omaan ruokavalioon ravintolassa. Kiitos ymm\u00E4rryksest\u00E4nne.  ",
+   "MenusForDays":[
+      {
+         "Date":"2023-02-27T00:00:00\u002B00:00",
+         "LunchTime":"10:45\u201313:30",
+         "SetMenus":[
+            {
+               "SortOrder":30,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Kalamurekepihhvej\u00E4 (A, G, ILM, L, M)",
+                  "Sinappista kananmuna-kermaviilikastiketta (A, G, L)",
+                  "Tilliperunoita (*, A, G, ILM, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":33,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Tofua ja kasviksia teriyakikastikkeessa (*, A, G, ILM, L, M, Veg, VS)",
+                  "H\u00F6yrytetty\u00E4 tummaa riisi\u00E4 (*, G, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":38,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Makkarakastiketta (*, A, G, L, M)",
+                  "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+               ]
+            }
+         ]
+      },
+      {
+         "Date":"2023-02-28T00:00:00\u002B00:00",
+         "LunchTime":"10:45\u201313:30",
+         "SetMenus":[
+            {
+               "SortOrder":30,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Kalkkuna-juustokastiketta (*, A, G, L)",
+                  "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":32,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Jauheliha-makaronilaatikkoa (A, L)",
+                  "Tomaattiketsuppia (G, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":39,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Quornia Aurajuustokastikkeessa (*, A, G, ILM, L)",
+                  "Luomut\u00E4ysjyv\u00E4kierrepastaa (*, A, ILM, L, M, Veg)"
+               ]
+            }
+         ]
+      },
+      {
+         "Date":"2023-03-01T00:00:00\u002B00:00",
+         "LunchTime":"10:45\u201313:30",
+         "SetMenus":[
+            {
+               "SortOrder":30,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Jauhelihakebakoita (A, L, M)",
+                  "Chilimajoneesia (A, G, L)",
+                  "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":33,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Inkiv\u00E4\u00E4ri-kasvispataa (*, A, G, ILM, L, M, Veg)",
+                  "H\u00F6yrytetty\u00E4 tummaa riisi\u00E4 (*, G, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":39,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Falafel-py\u00F6ryk\u00F6it\u00E4 (A, ILM, L, M, Veg, VS)",
+                  "Kurkkuraitaa (A, G, ILM, L, VS)",
+                  "Papas arrugadas -perunoita (*, G, ILM, L, M, Veg)"
+               ]
+            }
+         ]
+      },
+      {
+         "Date":"2023-03-02T00:00:00\u002B00:00",
+         "LunchTime":"10:45\u201313:30",
+         "SetMenus":[
+            {
+               "SortOrder":30,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Broileri-basilika-fenkolipastaa (*, A, L)"
+               ]
+            },
+            {
+               "SortOrder":33,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Herkkusieni-soija-kasviscurrya kookoksella (*, A, ILM, L, M, Veg, VS)",
+                  "H\u00F6yrytetty\u00E4 tummaa riisi\u00E4 (*, G, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":39,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Talon porkkanaohukaisia (*, A, ILM, L)",
+                  "Porkkanaohukaisia (*, A, ILM)",
+                  "Puolukkahilloa (G, L, M, Veg)",
+                  "Keitettyj\u00E4 perunoita (*, A, G, ILM, L, M, Veg)"
+               ]
+            }
+         ]
+      },
+      {
+         "Date":"2023-03-03T00:00:00\u002B00:00",
+         "LunchTime":"10:45\u201313:30",
+         "SetMenus":[
+            {
+               "SortOrder":30,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Kebablihaa ja kasviksia (*, A, G, L, M, VS)",
+                  "H\u00F6yrytetty\u00E4 tummaa riisi\u00E4 (*, G, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":32,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "Paneroitua seitifilett\u00E4 (*, A, ILM, L, M)",
+                  "Jogurtti-yrttikastiketta (A, G, L)",
+                  "Keitettyj\u00E4 perunoita (*, A, G, ILM, L, M, Veg)"
+               ]
+            },
+            {
+               "SortOrder":33,
+               "Name":null,
+               "Price":"2,95/6,50/7,85",
+               "Components":[
+                  "H\u00E4rk\u00E4papu-paprikat\u00E4ytett\u00E4 (*, G, ILM, L, M, Veg)",
+                  "Chilimajoneesia (A, G, ILM, L, M, Veg)",
+                  "T\u00E4ysjyv\u00E4vehn\u00E4tortilla (A, L, M, Veg)"
+               ]
+            }
+         ]
+      },
+      {
+         "Date":"2023-03-04T00:00:00\u002B00:00",
+         "LunchTime":null,
+         "SetMenus":[
+            
+         ]
+      },
+      {
+         "Date":"2023-03-05T00:00:00\u002B00:00",
+         "LunchTime":null,
+         "SetMenus":[
+            
+         ]
+      }
+   ],
+   "ErrorText":null
+}
