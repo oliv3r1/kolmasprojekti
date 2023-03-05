@@ -9,7 +9,7 @@ body,
 main {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  background-color: rgb(172, 168, 168);
+  background-color: rgb(50, 48, 47);
 }
 
 .navbar {
@@ -34,41 +34,42 @@ main {
   justify-content: center;
 }
 
-section {
-  display: flex;
-  flex-direction: row;
-}
-
 #carouselExample {
-  padding: 30px;
-  width: 50%;
+  padding: 20px;
   height: auto;
-  min-width: 350px;
+  min-width: 300px;
 }
 
-@media only screen and (max-width: 708px) {
+@media only screen and (max-width: 769px) {
   section {
     display: flex;
     flex-direction: column;
     width: 100%;
   }
-
-  #carouselExample {
-    width: 100%;
-  }
 }
 
 #menu-container {
-  width: 50%;
   height: auto;
   padding: 30px;
-  margin-right: 30px;
-  background-color: grey;
+  background-color: rgb(255, 80, 0);
   border-radius: 20px;
   margin-top: 30px;
   color: white;
   line-height: 35px;
 }
 #menu {
-  width: 50%;
+  width: 100%;
+}
+
+.card {
+  background-color: unset;
+  border: 0px;
+}
+
+@media screen and (max-width: 460px) {
+  .navbar-brand {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+  }
 }
