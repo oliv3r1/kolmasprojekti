@@ -7,13 +7,13 @@
 html,
 body,
 main {
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: rgb(50, 48, 47);
 }
 
 .navbar {
   position: relative;
+  width: 100%;
 }
 
 .navbar h1 {
@@ -40,7 +40,7 @@ main {
   min-width: 300px;
 }
 
-@media only screen and (max-width: 769px) {
+@media only screen and (max-width: 1200px) {
   section {
     display: flex;
     flex-direction: column;
@@ -53,7 +53,9 @@ main {
   padding: 30px;
   background-color: rgb(255, 80, 0);
   border-radius: 20px;
-  margin-top: 30px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
   color: white;
   line-height: 35px;
 }
@@ -66,10 +68,9 @@ main {
   border: 0px;
 }
 
-@media screen and (max-width: 460px) {
-  .navbar-brand {
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
+@media (max-width: 1100px) {
+  section .card-group {
+    display: flex;
+    flex-direction: column;
   }
 }
