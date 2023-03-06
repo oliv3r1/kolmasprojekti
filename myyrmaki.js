@@ -10,6 +10,16 @@ const weekdays = [
   "Lauantai"
 ];
 
+function changeScript() {
+    const script = document.getElementById('script');
+    if (script.src.endsWith('index.js')) {
+      script.src = 'index.js';
+    } else {
+      script.src = 'myyrmaki.js';
+    }
+  }
+  
+
 fetch(url)
   .then((response) => response.json())
   .then((data) => {

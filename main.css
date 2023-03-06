@@ -72,3 +72,7 @@ section {
 #menu {
   width: 50%;
 }
+
+h3 {
+  text-transform: capitalize;
+}
