@@ -32,7 +32,7 @@ fetch(url)
     }
     const menuItems = todaysLunchList.SetMenus;
     const menuList = document.createElement("ul");
-    menuList.innerHTML = `<h3>${currentWeekday}</h3>`;
+    menuList.innerHTML = `<h3 class="otsikkokolme">${currentWeekday}</h3>`;
     menuItems.forEach((menuItem) => {
       const menuItemElement = document.createElement("li");
       const menuItemName = menuItem.Components;

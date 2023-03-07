@@ -17,17 +17,6 @@ main {
   width: 100%;
 }
 
-.navbar h1 {
-  font-size: 2em;
-  position: relative;
-}
-@media (max-width: 925px) {
-  .navbar h1 {
-    position: relative;
-    font-size: 1.8em; /* Reduce the font size for smaller screens */
-  }
-}
-
 .banner-image {
   display: flex;
   height: 200px;
@@ -43,7 +32,7 @@ main {
 
 #menu-container {
   height: 100%;
-  font-size: 1.5em;
+  font-size: 1.3em;
   padding: 30px;
   background-color: rgb(255, 80, 0);
   background-image: url(assets/ruoka.jpg);
@@ -51,17 +40,42 @@ main {
   background-repeat: no-repeat;
   border-radius: 20px;
   margin-top: 20px;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-right: 1px;
+  margin-left: 5px;
   color: White;
   line-height: 45px;
   display: flex;
   flex-direction: column;
-  text-align: center;
+  
   justify-content: center;
   align-items: center;
 }
+
+@media (min-width: 2000px) {
+  #menu-container {
+    font-size: 1.3vh;
+    line-height: 2.2vh;
+  }
+  .otsikkokolme {
+    font-size: 2vh;
+  }
+  #bus-stops {
+    font-size: 1.3vh;
+  }
+  .pysakki {
+    font-size: 3vh;
+  }
+  .navbar {
+    height: 150px;
+  }
+}
+.otsikkokolme {
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 1.3em;
+}
 .restaurant {
+  text-align: center;
   font-size: 4vh;
   color: rgb(255, 80, 0);
 }
@@ -111,8 +125,8 @@ ul {
   margin-right: 40px;
   margin-left: 40px;
   margin-bottom: 40px;
-  height: auto;
-  font-size: 2em;
+  height: 30vh;
+  font-size: 3vh;
   padding: 30px;
   display: flex;
   flex-direction: column;
@@ -125,6 +139,10 @@ ul {
 
 #weather-report {
   color: Black;
+}
+
+h5 {
+  font-family: cursive;
 }
 
 .card {

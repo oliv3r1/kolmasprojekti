@@ -1,0 +1,18 @@
+{
+    "name": "Metropolia Campus Info",
+    "short_name": "CampusInfo",
+    "start_url": "karamalmi.html",
+    "description": "Info app for visitors of Metropolia Campus",
+    "display": "standalone",
+    "background_color": "#32302f",
+    "theme_color": "#FF5000",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "assets/metropolia_m_oranssi.png",
+            "type": "image/png",
+            "sizes": "4962x2645"
+        }
+    ]
+
+}
