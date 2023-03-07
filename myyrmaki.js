@@ -23,7 +23,7 @@ fetch(url)
     const menuItems = todaysLunchList.courses;
 
     const menuList = document.createElement("ul");
-    menuList.innerHTML = `<h3>${currentWeekday}</h3>`;
+    menuList.innerHTML = `<h3 style=" text-transform: capitalize;">${currentWeekday}</h3>`;
     console.log(menuList.innerHTML);
     Object.keys(menuItems).forEach((key) => {
       const menuItem = menuItems[key];

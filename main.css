@@ -7,7 +7,8 @@
 html,
 body,
 main {
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   background-color: rgb(50, 48, 47);
 }
 
@@ -40,16 +41,11 @@ main {
   min-width: 300px;
 }
 
-@media only screen and (max-width: 1200px) {
-  section {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-  }
-}
+
 
 #menu-container {
-  height: auto;
+  height: 100%;
+  font-size: 1.3em;
   padding: 30px;
   background-color: rgb(255, 80, 0);
   border-radius: 20px;
@@ -59,18 +55,43 @@ main {
   color: white;
   line-height: 35px;
 }
-#menu {
-  width: 100%;
-}
 
-.card {
-  background-color: unset;
-  border: 0px;
-}
 
 @media (max-width: 1100px) {
-  section .card-group {
+  section .row {
     display: flex;
     flex-direction: column;
   }
 }
+
+#bus-stops {
+  color: white;
+  text-align: center;
+  list-style-type: none;
+}
+.pysakki {
+  color: black;
+  text-align: center;
+}
+.stops {
+  background-color: rgb(255, 80, 0);
+  border-radius: 20px;
+  margin-top: 37px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: auto;
+  font-size: 1.3em;
+  padding: 30px;
+}
+
+.neljaskortti {
+  background-color: rgb(255, 80, 0);
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: auto;
+  font-size: 1.3em;
+  padding: 30px;
+}
+
