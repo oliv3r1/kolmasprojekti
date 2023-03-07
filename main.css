@@ -58,7 +58,7 @@ main {
 
 
 @media (max-width: 1100px) {
-  section .row {
+  section .row  {
     display: flex;
     flex-direction: column;
   }
