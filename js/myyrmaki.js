@@ -33,7 +33,7 @@ fetch(url)
       menuItemElement.textContent = `${menuItemName} (${menuItemProperties})`;
       menuList.appendChild(menuItemElement);
     });
-    menuContainer.innerHTML = `<h2 style="color: black">${restaurantName}</h2>`;
+    menuContainer.innerHTML = `<h2 class="restaurant">${restaurantName}</h2>`;
     menuContainer.appendChild(menuList);
   })
   .catch((error) => console.log(error));

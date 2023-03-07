@@ -1,13 +1,13 @@
 const url = "https://www.compass-group.fi/menuapi/feed/json?costNumber=3208&language=fi";
 const menuContainer = document.getElementById("menu-container");
 const weekdays = [
-  "Sunday",
-  "Monday",
-  "Tuesday",
-  "Wednesday",
-  "Thursday",
-  "Friday",
-  "Saturday"  
+    "Sunnuntai",
+    "Maanantai",
+    "Tiistai",
+    "Keskiviikko",
+    "Torstai",
+    "Perjantai",
+    "Lauantai"
 ];
 
 
@@ -40,7 +40,7 @@ fetch(url)
       menuItemElement.textContent = `${menuItemName} (${menuItemProperties})`;
       menuList.appendChild(menuItemElement);
     });
-    menuContainer.innerHTML = `<h2>${restaurantName}</h2>`;
+    menuContainer.innerHTML = `<h2 class="restaurant">${restaurantName}</h2>`;
     menuContainer.appendChild(menuList);
   })
   .catch((error) => console.log(error));
