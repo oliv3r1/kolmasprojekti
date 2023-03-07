@@ -17,6 +17,17 @@
       integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
       crossorigin="anonymous"
     ></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+      integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+      integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+      crossorigin=""
+    ></script>
   </head>
   <body>
     <main>
@@ -25,58 +36,117 @@
           <div class="container-fluid d-flex justify-content-center">
             <div class="d-flex justify-content-start">
               <a class="navbar-brand" href="#">
-                <img src="assets/metropolia_m_oranssi.png" alt="Logo" style="margin-right: 20px" width="120" height="60" class="d-inline-block s" />
+                <img
+                  src="assets/metropolia_m_oranssi.png"
+                  alt="Logo"
+                  style="margin-right: 20px"
+                  width="120"
+                  height="60"
+                  class="d-inline-block s"
+                />
               </a>
             </div>
             <div class="d-flex align-items-center">
-              <a href="main.html" class="btn btn-outline-danger">Vaihda Kampusta</a>
+              <a href="karamalmi.html" class="btn btn-outline-danger"
+                >Vaihda Kampusta</a
+              >
             </div>
           </div>
         </nav>
       </header>
       <section>
-        <div class="card-group  ">
-          <div class="card bg-transparent border-0">
-
-          <div class="card-body bg-transparent">
-            <div
-              id="carouselExample"
-              class="carousel slide"
-              data-bs-ride="carousel"
-            >
-              <div class="carousel-inner">
-                <div class="carousel-item active">
-                  <img src="assets/pp1.png" class="d-block w-100" alt="..." />
-                </div>
-                <div class="carousel-item">
-                  <img src="assets/pp2.png" class="d-block w-100" alt="..." />
-                </div>
-                <div class="carousel-item">
-                  <img src="assets/pp3.png" class="d-block w-100" alt="..." />
-                </div>
-                <div class="carousel-item">
-                  <img src="assets/pp4.png" class="d-block w-100" alt="..." />
-                </div>
-                <div class="carousel-item">
-                  <img src="assets/pp5.png" class="d-block w-100" alt="..." />
-                </div>
-                <div class="carousel-item">
-                  <img src="assets/pp6.png" class="d-block w-100" alt="..." />
+        <div class="row row-cols-2 row-cols-md-2 g-4">
+          <div class="col">
+            <div class="card bg-transparent border-0">
+              <div class="card-body stops">
+                <h1 class="pysakki">Pysäkit</h1>
+                <ul id="bus-stops"></ul>
+                <div id="mapid" style="height: 400px"></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <div class="card bg-transparent border-0">
+              <div class="card-body">
+                <div id="menu-container">
+                  <h2 id="restaurant-name"></h2>
+                  <div id="menu"></div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
-        <div class="card bg-transparent border-0">
-          <div class="card-body bg-transparent">
-            <div id="menu-container">
-              <h2 id="restaurant-name"></h2>
-              <div id="menu"></div>
+          <div class="col-6">
+            <div class="card bg-transparent border-0">
+              <div class="card-body">
+                <div
+                  id="carouselExample"
+                  class="carousel slide"
+                  data-bs-ride="carousel"
+                >
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img
+                        src="assets/pp1.png"
+                        class="d-block w-100"
+                        alt="..."
+                      />
+                    </div>
+                    <div class="carousel-item">
+                      <img
+                        src="assets/pp2.png"
+                        class="d-block w-100"
+                        alt="..."
+                      />
+                    </div>
+                    <div class="carousel-item">
+                      <img
+                        src="assets/pp3.png"
+                        class="d-block w-100"
+                        alt="..."
+                      />
+                    </div>
+                    <div class="carousel-item">
+                      <img
+                        src="assets/pp4.png"
+                        class="d-block w-100"
+                        alt="..."
+                      />
+                    </div>
+                    <div class="carousel-item">
+                      <img
+                        src="assets/pp5.png"
+                        class="d-block w-100"
+                        alt="..."
+                      />
+                    </div>
+                    <div class="carousel-item">
+                      <img
+                        src="assets/pp6.png"
+                        class="d-block w-100"
+                        alt="..."
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card bg-transparent border-0">
+              <div class="card-body neljaskortti">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">
+                  This is a longer card with supporting text below as a natural
+                  lead-in to additional content. This content is a little bit
+                  longer.
+                </p>
+              </div>
             </div>
           </div>
         </div>
       </section>
     </main>
-    <script src="karamalmi.js"></script>
+    <script src="myyrmaki.js"></script>
+    <script src="myyrstops.js"></script>
   </body>
 </html>
